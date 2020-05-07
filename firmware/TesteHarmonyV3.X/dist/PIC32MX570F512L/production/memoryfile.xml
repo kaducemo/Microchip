@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/PIC32MX570F512L/production/TesteHarmonyV3.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>525456</length>                 
+      <used>22680</used>                     
+      <free>502776</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>764</used>                     
+      <free>64772</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
