@@ -5,113 +5,113 @@ Optional file libmchp_peripheral_32MX570F512L.a not found
 Archive member included because of file (symbol)
 
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o (_bootstrap_exception_handler)
+                              C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o (_bootstrap_exception_handler)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o (_on_reset)
+                              C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o (_on_reset)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o (_on_bootstrap)
+                              C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o (_on_bootstrap)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o (_nmi_handler)
+                              C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o (_nmi_handler)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(pic32_data_init.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o (__pic32_data_init)
+                              C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o (__pic32_data_init)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(general-exception.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o (_general_exception_context)
+                              C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o (_general_exception_context)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector0.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_0)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_0)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector1.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_1)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_1)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector2.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_2)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_2)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector3.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_3)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_3)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector5.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_5)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_5)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector6.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_6)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_6)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector7.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_7)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_7)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector8.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_8)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_8)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector9.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_9)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_9)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector10.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_10)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_10)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector11.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_11)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_11)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector12.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_12)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_12)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector13.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_13)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_13)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector14.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_14)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_14)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector15.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_15)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_15)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector16.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_16)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_16)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector17.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_17)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_17)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector18.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_18)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_18)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector19.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_19)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_19)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector20.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_20)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_20)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector21.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_21)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_21)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector22.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_22)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_22)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector23.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_23)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_23)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector24.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_24)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_24)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector25.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_25)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_25)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector26.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_26)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_26)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector27.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_27)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_27)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector28.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_28)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_28)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector29.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_29)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_29)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector30.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_30)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_30)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector31.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_31)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_31)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector32.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_32)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_32)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector33.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_33)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_33)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector34.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_34)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_34)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector35.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_35)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_35)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector37.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_37)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_37)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector38.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_38)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_38)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector39.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_39)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_39)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector40.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_40)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_40)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector41.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_41)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_41)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector42.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_42)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_42)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector43.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_43)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_43)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector44.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_44)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_44)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector45.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_45)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_45)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector46.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_46)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_46)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector47.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_47)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_47)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector48.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_48)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_48)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector49.o)
-                              C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o (__vector_dispatch_49)
+                              C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o (__vector_dispatch_49)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
                               c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(vector0.o) (_DefaultInterrupt)
 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(printf_cdnopsuxX.eo)
@@ -155,92 +155,92 @@ section                    address  length [bytes]      (dec)  Description
 .text                   0x9d000c8c          0x8bc        2236  App's exec code 
 .text.DRV_USART_Initial 0x9d001548          0x330         816   
 .text.DRV_USART_Open    0x9d001878          0x2dc         732   
-.text.UART2_SerialSetup 0x9d001b54          0x280         640   
-.text._DRV_USART_Buffer 0x9d001dd4          0x264         612   
-.text._DRV_USART_Enable 0x9d002038          0x23c         572   
-.text._DRV_USART_Disabl 0x9d002274          0x21c         540   
-.text._DRV_USART_Buffer 0x9d002490          0x1d0         464   
-.text._DRV_USART_FreeTr 0x9d002660          0x18c         396   
-.text.APP_Tasks         0x9d0027ec          0x184         388   
-.dinit                  0x9d002970          0x180         384   
-.text.TIMER_1_Handler   0x9d002af0          0x148         328   
-.text.UART_2_Handler    0x9d002c38          0x148         328   
-.text.fputc             0x9d002d80          0x144         324   
-.text.TIMER1_EventHandl 0x9d002ec4          0x13c         316   
-.text.UART2_RX_Interrup 0x9d003000          0x138         312   
-.text.UART2_TX_Interrup 0x9d003138          0x134         308   
-.text._flsbuf           0x9d00326c          0x12c         300   
-.text._DRV_USART_Driver 0x9d003398          0x128         296   
-.text.CLK_Initialize    0x9d0034c0          0x128         296   
-.text.APP_USARTBufferEv 0x9d0035e8          0x120         288   
-.text.TakeSwitchStateS3 0x9d003708          0x110         272   
-.rodata                 0x9d003818          0x210         528  Read-only const 
-.text.UART2_Write       0x9d003a28           0xf0         240   
-.text._DRV_USART_WriteS 0x9d003b18           0xf0         240   
-.text._DRV_USART_ReadSu 0x9d003c08           0xf0         240   
-.text.UART2_Initialize  0x9d003cf8           0xe4         228   
-.text._DRV_USART_Transf 0x9d003ddc           0xe4         228   
-.text.UART_2_InterruptH 0x9d003ec0           0xe0         224   
-.text.general_exception 0x9d003fa0           0xdc         220   
-.rodata                 0x9d004080           0xd0         208  Read-only const 
-.text.UART2_Read        0x9d004150           0xcc         204   
-.text.DRV_USART_BufferE 0x9d00421c           0xcc         204   
-.text.GPIO_Initialize   0x9d0042e8           0xcc         204   
-.rodata                 0x9d0043b4           0xc0         192  Read-only const 
-.text.UART2_ErrorClear  0x9d004474           0xb8         184   
-.text._DRV_USART_Resour 0x9d00452c           0xa0         160   
-.text._DRV_USART_Remove 0x9d0045cc           0xa0         160   
-.text.write             0x9d00466c           0x9c         156   
-.text._DRV_USART_RX_PLI 0x9d004708           0x94         148   
-.text.SYS_Initialize    0x9d00479c           0x94         148   
-.text._DRV_USART_GetErr 0x9d004830           0x8c         140   
-.text.UART2_FAULT_Inter 0x9d0048bc           0x84         132   
-.text                   0x9d004940           0x84         132  App's exec code 
-.text.APP_Initialize    0x9d0049c4           0x80         128   
-.text._general_exceptio 0x9d004a44           0x74         116   
-.text.SYS_INT_SourceDis 0x9d004ab8           0x74         116   
-.text.EVIC_SourceEnable 0x9d004b2c           0x70         112   
-.text.EVIC_SourceDisabl 0x9d004b9c           0x70         112   
-.text.TIMER_1_Interrupt 0x9d004c0c           0x6c         108   
-.text.EVIC_SourceIsEnab 0x9d004c78           0x68         104   
-.text._DRV_USART_Resour 0x9d004ce0           0x60          96   
-.text._DRV_USART_Transf 0x9d004d40           0x60          96   
-.text.UART2_ErrorGet    0x9d004da0           0x5c          92   
-.text.DRV_USART_WriteBu 0x9d004dfc           0x58          88   
-.text.TMR1_Initialize   0x9d004e54           0x58          88   
-.text._DRV_USART_TX_PLI 0x9d004eac           0x54          84   
-.text.DRV_USART_ReadBuf 0x9d004f00           0x54          84   
-.text.main_entry        0x9d004f54           0x54          84   
-.text._DRV_USART_MAKE_H 0x9d004fa8           0x50          80   
-.text._DRV_USART_UPDATE 0x9d004ff8           0x50          80   
-.text.SYS_INT_SourceRes 0x9d005048           0x4c          76   
-.text.UART2_ReadCallbac 0x9d005094           0x48          72   
-.text.UART2_WriteCallba 0x9d0050dc           0x48          72   
-.text.SYS_INT_Disable   0x9d005124           0x48          72   
-.text._bootstrap_except 0x9d00516c           0x48          72   
-.vector_default         0x9d0051b4           0x48          72   
-.text.EVIC_Initialize   0x9d0051fc           0x44          68   
-.text                   0x9d005240           0x44          68  App's exec code 
-.text.SYS_INT_Restore   0x9d005284           0x40          64   
-.text._printf_cdnopsuxX 0x9d0052c4           0x40          64   
-.text.TMR1_CallbackRegi 0x9d005304           0x38          56   
-.text.SYS_DMA_ChannelTr 0x9d00533c           0x34          52   
-.text.SYS_Tasks         0x9d005370           0x30          48   
-.text.UART2_ReadIsBusy  0x9d0053a0           0x2c          44   
-.text.UART2_ReadCountGe 0x9d0053cc           0x2c          44   
-.text.UART2_WriteIsBusy 0x9d0053f8           0x2c          44   
-.text.UART2_WriteCountG 0x9d005424           0x2c          44   
-.text.main              0x9d005450           0x2c          44   
-.text.TMR1_Start        0x9d00547c           0x2c          44   
-.text.TMR1_InterruptEna 0x9d0054a8           0x2c          44   
-.text.SYS_DMA_Addressin 0x9d0054d4           0x2c          44   
-.text._mon_putc         0x9d005500           0x28          40   
-.text.SYS_DMA_DataWidth 0x9d005528           0x28          40   
-.text                   0x9d005550           0x18          24  App's exec code 
-.text.__exception_handl 0x9d005568            0xc          12   
-.text._on_reset         0x9d005574            0x8           8   
-.text._on_bootstrap     0x9d00557c            0x8           8   
-      Total kseg0_program_mem used  :      0x5580       21888  4.2% of 0x7f000
+.text.APP_USARTBufferEv 0x9d001b54          0x29c         668   
+.text.UART2_SerialSetup 0x9d001df0          0x280         640   
+.text._DRV_USART_Buffer 0x9d002070          0x264         612   
+.text._DRV_USART_Enable 0x9d0022d4          0x23c         572   
+.text._DRV_USART_Disabl 0x9d002510          0x21c         540   
+.text._DRV_USART_Buffer 0x9d00272c          0x1d0         464   
+.text.APP_Tasks         0x9d0028fc          0x1c8         456   
+.text._DRV_USART_FreeTr 0x9d002ac4          0x18c         396   
+.dinit                  0x9d002c50          0x180         384   
+.text.TIMER_1_Handler   0x9d002dd0          0x148         328   
+.text.UART_2_Handler    0x9d002f18          0x148         328   
+.text.fputc             0x9d003060          0x144         324   
+.text.TIMER1_EventHandl 0x9d0031a4          0x13c         316   
+.text.UART2_RX_Interrup 0x9d0032e0          0x138         312   
+.text.UART2_TX_Interrup 0x9d003418          0x134         308   
+.text._flsbuf           0x9d00354c          0x12c         300   
+.text._DRV_USART_Driver 0x9d003678          0x128         296   
+.text.CLK_Initialize    0x9d0037a0          0x128         296   
+.text.TakeSwitchStateS3 0x9d0038c8          0x110         272   
+.rodata                 0x9d0039d8          0x210         528  Read-only const 
+.text.UART2_Write       0x9d003be8           0xf0         240   
+.text._DRV_USART_WriteS 0x9d003cd8           0xf0         240   
+.text._DRV_USART_ReadSu 0x9d003dc8           0xf0         240   
+.text.UART2_Initialize  0x9d003eb8           0xe4         228   
+.text._DRV_USART_Transf 0x9d003f9c           0xe4         228   
+.text.UART_2_InterruptH 0x9d004080           0xe0         224   
+.text.general_exception 0x9d004160           0xdc         220   
+.rodata                 0x9d004240           0xd0         208  Read-only const 
+.text.UART2_Read        0x9d004310           0xcc         204   
+.text.DRV_USART_BufferE 0x9d0043dc           0xcc         204   
+.text.GPIO_Initialize   0x9d0044a8           0xcc         204   
+.rodata                 0x9d004574           0xc0         192  Read-only const 
+.text.UART2_ErrorClear  0x9d004634           0xb8         184   
+.text._DRV_USART_Resour 0x9d0046ec           0xa0         160   
+.text._DRV_USART_Remove 0x9d00478c           0xa0         160   
+.text.write             0x9d00482c           0x9c         156   
+.text._DRV_USART_RX_PLI 0x9d0048c8           0x94         148   
+.text.SYS_Initialize    0x9d00495c           0x94         148   
+.text._DRV_USART_GetErr 0x9d0049f0           0x8c         140   
+.text.UART2_FAULT_Inter 0x9d004a7c           0x84         132   
+.text                   0x9d004b00           0x84         132  App's exec code 
+.text.APP_Initialize    0x9d004b84           0x80         128   
+.text._general_exceptio 0x9d004c04           0x74         116   
+.text.SYS_INT_SourceDis 0x9d004c78           0x74         116   
+.text.EVIC_SourceEnable 0x9d004cec           0x70         112   
+.text.EVIC_SourceDisabl 0x9d004d5c           0x70         112   
+.text.TIMER_1_Interrupt 0x9d004dcc           0x6c         108   
+.text.EVIC_SourceIsEnab 0x9d004e38           0x68         104   
+.text._DRV_USART_Resour 0x9d004ea0           0x60          96   
+.text._DRV_USART_Transf 0x9d004f00           0x60          96   
+.text.UART2_ErrorGet    0x9d004f60           0x5c          92   
+.text.DRV_USART_WriteBu 0x9d004fbc           0x58          88   
+.text.TMR1_Initialize   0x9d005014           0x58          88   
+.text._DRV_USART_TX_PLI 0x9d00506c           0x54          84   
+.text.DRV_USART_ReadBuf 0x9d0050c0           0x54          84   
+.text.main_entry        0x9d005114           0x54          84   
+.text._DRV_USART_MAKE_H 0x9d005168           0x50          80   
+.text._DRV_USART_UPDATE 0x9d0051b8           0x50          80   
+.text.SYS_INT_SourceRes 0x9d005208           0x4c          76   
+.text.UART2_ReadCallbac 0x9d005254           0x48          72   
+.text.UART2_WriteCallba 0x9d00529c           0x48          72   
+.text.SYS_INT_Disable   0x9d0052e4           0x48          72   
+.text._bootstrap_except 0x9d00532c           0x48          72   
+.vector_default         0x9d005374           0x48          72   
+.text.EVIC_Initialize   0x9d0053bc           0x44          68   
+.text                   0x9d005400           0x44          68  App's exec code 
+.text.SYS_INT_Restore   0x9d005444           0x40          64   
+.text._printf_cdnopsuxX 0x9d005484           0x40          64   
+.text.TMR1_CallbackRegi 0x9d0054c4           0x38          56   
+.text.SYS_DMA_ChannelTr 0x9d0054fc           0x34          52   
+.text.SYS_Tasks         0x9d005530           0x30          48   
+.text.UART2_ReadIsBusy  0x9d005560           0x2c          44   
+.text.UART2_ReadCountGe 0x9d00558c           0x2c          44   
+.text.UART2_WriteIsBusy 0x9d0055b8           0x2c          44   
+.text.UART2_WriteCountG 0x9d0055e4           0x2c          44   
+.text.main              0x9d005610           0x2c          44   
+.text.TMR1_Start        0x9d00563c           0x2c          44   
+.text.TMR1_InterruptEna 0x9d005668           0x2c          44   
+.text.SYS_DMA_Addressin 0x9d005694           0x2c          44   
+.text._mon_putc         0x9d0056c0           0x28          40   
+.text.SYS_DMA_DataWidth 0x9d0056e8           0x28          40   
+.text                   0x9d005710           0x18          24  App's exec code 
+.text.__exception_handl 0x9d005728            0xc          12   
+.text._on_reset         0x9d005734            0x8           8   
+.text._on_bootstrap     0x9d00573c            0x8           8   
+      Total kseg0_program_mem used  :      0x5740       22336  4.3% of 0x7f000
 
 kseg0 Boot-Memory Usage
 section                    address  length [bytes]      (dec)  Description
@@ -310,7 +310,7 @@ section                    address  length [bytes]      (dec)  Description
 .bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
          Total kseg1_boot_mem used  :       0x188         392  33.6% of 0x490
         --------------------------------------------------------------------------
-         Total Program Memory used  :      0x58a8       22696  4.3% of 0x80490
+         Total Program Memory used  :      0x5a68       23144  4.4% of 0x80490
         --------------------------------------------------------------------------
 
 
@@ -474,19 +474,19 @@ Discarded input sections
  .data          0x00000000        0x0 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
  .bss           0x00000000        0x0 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
  .reginfo       0x00000000       0x18 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
- .text          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
- .data          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
- .bss           0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
- .reginfo       0x00000000       0x18 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
- .text          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccQ5E4Ye.o
- .data          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccQ5E4Ye.o
- .bss           0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccQ5E4Ye.o
- .reginfo       0x00000000       0x18 C:\Users\kadu_\AppData\Local\Temp\ccQ5E4Ye.o
- .text          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o
- .data          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o
- .bss           0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o
- .reginfo       0x00000000       0x18 C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o
- .discard       0x00000000       0xc8 C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o
+ .text          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+ .data          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+ .bss           0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+ .reginfo       0x00000000       0x18 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+ .text          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\cczuEnnR.o
+ .data          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\cczuEnnR.o
+ .bss           0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\cczuEnnR.o
+ .reginfo       0x00000000       0x18 C:\Users\kadu_\AppData\Local\Temp\cczuEnnR.o
+ .text          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o
+ .data          0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o
+ .bss           0x00000000        0x0 C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o
+ .reginfo       0x00000000       0x18 C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o
+ .discard       0x00000000       0xc8 C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o
  .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
  .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
  .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
@@ -816,9 +816,9 @@ LOAD build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
                 0x00000001                __DEBUG = 0x1
                 0x00000001                __MPLAB_DEBUGGER_ICD3 = 0x1
                 0x00000200                _min_heap_size = 0x200
-LOAD C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
-LOAD C:\Users\kadu_\AppData\Local\Temp\ccQ5E4Ye.o
-LOAD C:\Users\kadu_\AppData\Local\Temp\ccGxFDth.o
+LOAD C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+LOAD C:\Users\kadu_\AppData\Local\Temp\cczuEnnR.o
+LOAD C:\Users\kadu_\AppData\Local\Temp\ccGFh0Um.o
 LOAD c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
                 0x00000400                PROVIDE (_min_stack_size, 0x400)
 START GROUP
@@ -867,16 +867,16 @@ END GROUP
 
 .reset          0xbfc00000      0x178
  *(.reset)
- .reset         0xbfc00000        0x8 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
+ .reset         0xbfc00000        0x8 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
                 0xbfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0xbfc00008      0x170 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
+                0xbfc00008      0x170 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
                 0xbfc00008                _startup
 
 .bev_excpt      0xbfc00380       0x10
  *(.bev_handler)
- .bev_handler   0xbfc00380       0x10 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
+ .bev_handler   0xbfc00380       0x10 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
 
 .dbg_excpt      0xbfc00480        0x0
                 0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -886,7 +886,7 @@ END GROUP
 
 .app_excpt      0x9d07f180       0x10
  *(.gen_handler)
- .gen_handler   0x9d07f180       0x10 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
+ .gen_handler   0x9d07f180       0x10 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
 
 .vector_0       0x9d07f200        0x8
  *(.vector_0)
@@ -1582,7 +1582,7 @@ END GROUP
  .debug_aranges
                 0x00000498       0x20 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
  .debug_aranges
-                0x000004b8       0x40 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
+                0x000004b8       0x40 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
  .debug_aranges
                 0x000004f8       0x20 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_aranges
@@ -1609,7 +1609,7 @@ END GROUP
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0xb596
+.debug_info     0x00000000     0xb5e3
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000       0xe3 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\software-debug-break.o
  .debug_info    0x000000e3      0xac0 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
@@ -1625,20 +1625,20 @@ END GROUP
  .debug_info    0x00007a40      0x7b4 build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
  .debug_info    0x000081f4      0xbf8 build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
  .debug_info    0x00008dec      0x52e build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
- .debug_info    0x0000931a      0x999 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
- .debug_info    0x00009cb3      0x1c4 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
- .debug_info    0x00009e77       0xe8 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
- .debug_info    0x00009f5f       0xf4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_info    0x0000a053       0xcd c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
- .debug_info    0x0000a120       0xd5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
- .debug_info    0x0000a1f5       0xe7 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
- .debug_info    0x0000a2dc       0xcf c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(printf_cdnopsuxX.eo)
- .debug_info    0x0000a3ab       0xd2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(doprnt_cdnopsuxX.eo)
- .debug_info    0x0000a47d       0xc2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_fputc_simple.o)
- .debug_info    0x0000a53f       0xc5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_flsbuf_simple.o)
- .debug_info    0x0000a604      0x74b c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_udivdi3.o)
- .debug_info    0x0000ad4f      0x788 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
- .debug_info    0x0000b4d7       0xbf c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
+ .debug_info    0x0000931a      0x9e6 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+ .debug_info    0x00009d00      0x1c4 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
+ .debug_info    0x00009ec4       0xe8 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+ .debug_info    0x00009fac       0xf4 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x0000a0a0       0xcd c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_info    0x0000a16d       0xd5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x0000a242       0xe7 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+ .debug_info    0x0000a329       0xcf c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(printf_cdnopsuxX.eo)
+ .debug_info    0x0000a3f8       0xd2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(doprnt_cdnopsuxX.eo)
+ .debug_info    0x0000a4ca       0xc2 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_fputc_simple.o)
+ .debug_info    0x0000a58c       0xc5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_flsbuf_simple.o)
+ .debug_info    0x0000a651      0x74b c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_udivdi3.o)
+ .debug_info    0x0000ad9c      0x788 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
+ .debug_info    0x0000b524       0xbf c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
 
 .debug_abbrev   0x00000000     0x1698
  *(.debug_abbrev)
@@ -1658,7 +1658,7 @@ END GROUP
  .debug_abbrev  0x00000fde       0xa6 build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
  .debug_abbrev  0x00001084      0x1c4 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
  .debug_abbrev  0x00001248       0x57 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
- .debug_abbrev  0x0000129f       0x12 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
+ .debug_abbrev  0x0000129f       0x12 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
  .debug_abbrev  0x000012b1       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_abbrev  0x000012d9       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
  .debug_abbrev  0x00001301       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
@@ -1671,7 +1671,7 @@ END GROUP
  .debug_abbrev  0x00001529      0x147 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
  .debug_abbrev  0x00001670       0x28 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
 
-.debug_line     0x00000000     0x325f
+.debug_line     0x00000000     0x3280
  *(.debug_line)
  .debug_line    0x00000000       0x99 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\software-debug-break.o
  .debug_line    0x00000099      0x3a1 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
@@ -1687,22 +1687,22 @@ END GROUP
  .debug_line    0x00001fb6      0x251 build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
  .debug_line    0x00002207      0x1dc build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
  .debug_line    0x000023e3      0x128 build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
- .debug_line    0x0000250b      0x417 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
- .debug_line    0x00002922       0xfc build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
- .debug_line    0x00002a1e      0x14d C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
- .debug_line    0x00002b6b       0xa6 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_line    0x00002c11       0x93 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
- .debug_line    0x00002ca4       0x97 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
- .debug_line    0x00002d3b       0xa5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
- .debug_line    0x00002de0       0x7e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(printf_cdnopsuxX.eo)
- .debug_line    0x00002e5e        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_iob.o)
- .debug_line    0x00002e5e       0x7e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(doprnt_cdnopsuxX.eo)
- .debug_line    0x00002edc       0x7d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_fputc_simple.o)
- .debug_line    0x00002f59        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(ctype.o)
- .debug_line    0x00002f59       0x7e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_flsbuf_simple.o)
- .debug_line    0x00002fd7       0xf7 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_udivdi3.o)
- .debug_line    0x000030ce      0x109 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
- .debug_line    0x000031d7       0x88 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
+ .debug_line    0x0000250b      0x438 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+ .debug_line    0x00002943       0xfc build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
+ .debug_line    0x00002a3f      0x14d C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+ .debug_line    0x00002b8c       0xa6 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x00002c32       0x93 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+ .debug_line    0x00002cc5       0x97 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x00002d5c       0xa5 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+ .debug_line    0x00002e01       0x7e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(printf_cdnopsuxX.eo)
+ .debug_line    0x00002e7f        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_iob.o)
+ .debug_line    0x00002e7f       0x7e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(doprnt_cdnopsuxX.eo)
+ .debug_line    0x00002efd       0x7d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_fputc_simple.o)
+ .debug_line    0x00002f7a        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(ctype.o)
+ .debug_line    0x00002f7a       0x7e c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_flsbuf_simple.o)
+ .debug_line    0x00002ff8       0xf7 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_udivdi3.o)
+ .debug_line    0x000030ef      0x109 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
+ .debug_line    0x000031f8       0x88 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
 
 .debug_frame    0x00000000     0x10e8
  *(.debug_frame)
@@ -1766,7 +1766,7 @@ END GROUP
  .debug_str     0x000001ea        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
  .debug_str     0x000001ea        0x0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
 
-.debug_loc      0x00000000     0x5743
+.debug_loc      0x00000000     0x572f
  *(.debug_loc)
  .debug_loc     0x00000000      0x8de build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
  .debug_loc     0x000008de     0x271d build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
@@ -1781,12 +1781,12 @@ END GROUP
  .debug_loc     0x000038a2      0x323 build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
  .debug_loc     0x00003bc5      0x27c build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
  .debug_loc     0x00003e41       0xcc build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
- .debug_loc     0x00003f0d      0x2e7 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
- .debug_loc     0x000041f4       0x44 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
- .debug_loc     0x00004238       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_loc     0x00004264      0xa6a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_udivdi3.o)
- .debug_loc     0x00004cce      0xa3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
- .debug_loc     0x0000570b       0x38 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
+ .debug_loc     0x00003f0d      0x2d3 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+ .debug_loc     0x000041e0       0x44 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
+ .debug_loc     0x00004224       0x2c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_loc     0x00004250      0xa6a c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_udivdi3.o)
+ .debug_loc     0x00004cba      0xa3d c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3\libgcc.a(_umoddi3.o)
+ .debug_loc     0x000056f7       0x38 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1824,7 +1824,7 @@ END GROUP
  .debug_ranges  0x00000358       0x20 build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
  .debug_ranges  0x00000378       0x30 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
  .debug_ranges  0x000003a8       0x10 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
- .debug_ranges  0x000003b8       0x38 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
+ .debug_ranges  0x000003b8       0x38 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
  .debug_ranges  0x000003f0       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_ranges  0x00000400       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
  .debug_ranges  0x00000410       0x10 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
@@ -1966,473 +1966,473 @@ LOAD data_init
                 0x9d001878      0x2dc build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
                 0x9d001878                DRV_USART_Open
 
+.text.APP_USARTBufferEventHandler
+                0x9d001b54      0x29c
+ .text.APP_USARTBufferEventHandler
+                0x9d001b54      0x29c build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+                0x9d001b54                APP_USARTBufferEventHandler
+
 .text.UART2_SerialSetup
-                0x9d001b54      0x280
+                0x9d001df0      0x280
  .text.UART2_SerialSetup
-                0x9d001b54      0x280 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d001b54                UART2_SerialSetup
+                0x9d001df0      0x280 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d001df0                UART2_SerialSetup
 
 .text._DRV_USART_BufferQueueTask
-                0x9d001dd4      0x264
+                0x9d002070      0x264
  .text._DRV_USART_BufferQueueTask
-                0x9d001dd4      0x264 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d002070      0x264 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text._DRV_USART_EnableInterrupts
-                0x9d002038      0x23c
+                0x9d0022d4      0x23c
  .text._DRV_USART_EnableInterrupts
-                0x9d002038      0x23c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d0022d4      0x23c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text._DRV_USART_DisableInterrupts
-                0x9d002274      0x21c
+                0x9d002510      0x21c
  .text._DRV_USART_DisableInterrupts
-                0x9d002274      0x21c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d002510      0x21c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text._DRV_USART_BufferAdd
-                0x9d002490      0x1d0
+                0x9d00272c      0x1d0
  .text._DRV_USART_BufferAdd
-                0x9d002490      0x1d0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
-
-.text._DRV_USART_FreeTransferObjGet
-                0x9d002660      0x18c
- .text._DRV_USART_FreeTransferObjGet
-                0x9d002660      0x18c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d00272c      0x1d0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.APP_Tasks
-                0x9d0027ec      0x184
+                0x9d0028fc      0x1c8
  .text.APP_Tasks
-                0x9d0027ec      0x184 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
-                0x9d0027ec                APP_Tasks
+                0x9d0028fc      0x1c8 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+                0x9d0028fc                APP_Tasks
 
-.dinit          0x9d002970      0x180
- .dinit         0x9d002970      0x180 data_init
+.text._DRV_USART_FreeTransferObjGet
+                0x9d002ac4      0x18c
+ .text._DRV_USART_FreeTransferObjGet
+                0x9d002ac4      0x18c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+
+.dinit          0x9d002c50      0x180
+ .dinit         0x9d002c50      0x180 data_init
 
 .text.TIMER_1_Handler
-                0x9d002af0      0x148
+                0x9d002dd0      0x148
  .text.TIMER_1_Handler
-                0x9d002af0      0x148 build/PIC32MX570F512L/debug/_ext/1647817649/interrupts.o
-                0x9d002af0                TIMER_1_Handler
+                0x9d002dd0      0x148 build/PIC32MX570F512L/debug/_ext/1647817649/interrupts.o
+                0x9d002dd0                TIMER_1_Handler
 
 .text.UART_2_Handler
-                0x9d002c38      0x148
+                0x9d002f18      0x148
  .text.UART_2_Handler
-                0x9d002c38      0x148 build/PIC32MX570F512L/debug/_ext/1647817649/interrupts.o
-                0x9d002c38                UART_2_Handler
+                0x9d002f18      0x148 build/PIC32MX570F512L/debug/_ext/1647817649/interrupts.o
+                0x9d002f18                UART_2_Handler
 
-.text.fputc     0x9d002d80      0x144
- .text.fputc    0x9d002d80      0x144 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_fputc_simple.o)
-                0x9d002d80                fputc
+.text.fputc     0x9d003060      0x144
+ .text.fputc    0x9d003060      0x144 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_fputc_simple.o)
+                0x9d003060                fputc
 
 .text.TIMER1_EventHandler
-                0x9d002ec4      0x13c
+                0x9d0031a4      0x13c
  .text.TIMER1_EventHandler
-                0x9d002ec4      0x13c build/PIC32MX570F512L/debug/_ext/1360937237/app.o
-                0x9d002ec4                TIMER1_EventHandler
+                0x9d0031a4      0x13c build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+                0x9d0031a4                TIMER1_EventHandler
 
 .text.UART2_RX_InterruptHandler
-                0x9d003000      0x138
+                0x9d0032e0      0x138
  .text.UART2_RX_InterruptHandler
-                0x9d003000      0x138 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d0032e0      0x138 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
 
 .text.UART2_TX_InterruptHandler
-                0x9d003138      0x134
+                0x9d003418      0x134
  .text.UART2_TX_InterruptHandler
-                0x9d003138      0x134 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d003418      0x134 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
 
-.text._flsbuf   0x9d00326c      0x12c
- .text._flsbuf  0x9d00326c      0x12c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_flsbuf_simple.o)
-                0x9d00326c                _flsbuf
+.text._flsbuf   0x9d00354c      0x12c
+ .text._flsbuf  0x9d00354c      0x12c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(_flsbuf_simple.o)
+                0x9d00354c                _flsbuf
 
 .text._DRV_USART_DriverHandleValidate
-                0x9d003398      0x128
+                0x9d003678      0x128
  .text._DRV_USART_DriverHandleValidate
-                0x9d003398      0x128 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d003678      0x128 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.CLK_Initialize
-                0x9d0034c0      0x128
+                0x9d0037a0      0x128
  .text.CLK_Initialize
-                0x9d0034c0      0x128 build/PIC32MX570F512L/debug/_ext/1038054351/plib_clk.o
-                0x9d0034c0                CLK_Initialize
-
-.text.APP_USARTBufferEventHandler
-                0x9d0035e8      0x120
- .text.APP_USARTBufferEventHandler
-                0x9d0035e8      0x120 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
-                0x9d0035e8                APP_USARTBufferEventHandler
+                0x9d0037a0      0x128 build/PIC32MX570F512L/debug/_ext/1038054351/plib_clk.o
+                0x9d0037a0                CLK_Initialize
 
 .text.TakeSwitchStateS3
-                0x9d003708      0x110
+                0x9d0038c8      0x110
  .text.TakeSwitchStateS3
-                0x9d003708      0x110 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
-                0x9d003708                TakeSwitchStateS3
+                0x9d0038c8      0x110 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+                0x9d0038c8                TakeSwitchStateS3
 
-.rodata         0x9d003818      0x210
- .rodata        0x9d003818      0x10c build/PIC32MX570F512L/debug/_ext/1647817649/exceptions.o
- .rodata        0x9d003924      0x104 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(ctype.o)
-                0x9d003924                _ctype
+.rodata         0x9d0039d8      0x210
+ .rodata        0x9d0039d8      0x10c build/PIC32MX570F512L/debug/_ext/1647817649/exceptions.o
+ .rodata        0x9d003ae4      0x104 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(ctype.o)
+                0x9d003ae4                _ctype
 
 .text.UART2_Write
-                0x9d003a28       0xf0
+                0x9d003be8       0xf0
  .text.UART2_Write
-                0x9d003a28       0xf0 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d003a28                UART2_Write
+                0x9d003be8       0xf0 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d003be8                UART2_Write
 
 .text._DRV_USART_WriteSubmit
-                0x9d003b18       0xf0
+                0x9d003cd8       0xf0
  .text._DRV_USART_WriteSubmit
-                0x9d003b18       0xf0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d003cd8       0xf0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text._DRV_USART_ReadSubmit
-                0x9d003c08       0xf0
+                0x9d003dc8       0xf0
  .text._DRV_USART_ReadSubmit
-                0x9d003c08       0xf0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d003dc8       0xf0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.UART2_Initialize
-                0x9d003cf8       0xe4
+                0x9d003eb8       0xe4
  .text.UART2_Initialize
-                0x9d003cf8       0xe4 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d003cf8                UART2_Initialize
+                0x9d003eb8       0xe4 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d003eb8                UART2_Initialize
 
 .text._DRV_USART_TransferObjAddToList
-                0x9d003ddc       0xe4
+                0x9d003f9c       0xe4
  .text._DRV_USART_TransferObjAddToList
-                0x9d003ddc       0xe4 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d003f9c       0xe4 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.UART_2_InterruptHandler
-                0x9d003ec0       0xe0
+                0x9d004080       0xe0
  .text.UART_2_InterruptHandler
-                0x9d003ec0       0xe0 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d003ec0                UART_2_InterruptHandler
+                0x9d004080       0xe0 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d004080                UART_2_InterruptHandler
 
 .text.general_exception
-                0x9d003fa0       0xdc
+                0x9d004160       0xdc
  .text.general_exception
-                0x9d003fa0       0xdc c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(general-exception.o)
-                0x9d003fa0                _general_exception_context
+                0x9d004160       0xdc c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(general-exception.o)
+                0x9d004160                _general_exception_context
 
-.rodata         0x9d004080       0xd0
- .rodata        0x9d004080       0xd0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(doprnt_cdnopsuxX.eo)
+.rodata         0x9d004240       0xd0
+ .rodata        0x9d004240       0xd0 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(doprnt_cdnopsuxX.eo)
 
 .text.UART2_Read
-                0x9d004150       0xcc
+                0x9d004310       0xcc
  .text.UART2_Read
-                0x9d004150       0xcc build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d004150                UART2_Read
+                0x9d004310       0xcc build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d004310                UART2_Read
 
 .text.DRV_USART_BufferEventHandlerSet
-                0x9d00421c       0xcc
+                0x9d0043dc       0xcc
  .text.DRV_USART_BufferEventHandlerSet
-                0x9d00421c       0xcc build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
-                0x9d00421c                DRV_USART_BufferEventHandlerSet
+                0x9d0043dc       0xcc build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d0043dc                DRV_USART_BufferEventHandlerSet
 
 .text.GPIO_Initialize
-                0x9d0042e8       0xcc
+                0x9d0044a8       0xcc
  .text.GPIO_Initialize
-                0x9d0042e8       0xcc build/PIC32MX570F512L/debug/_ext/2115036866/plib_gpio.o
-                0x9d0042e8                GPIO_Initialize
+                0x9d0044a8       0xcc build/PIC32MX570F512L/debug/_ext/2115036866/plib_gpio.o
+                0x9d0044a8                GPIO_Initialize
 
-.rodata         0x9d0043b4       0xc0
- .rodata        0x9d0043b4       0xc0 build/PIC32MX570F512L/debug/_ext/1647817649/initialization.o
-                0x9d0043b4                drvUsart0PlibAPI
-                0x9d0043dc                drvUsart0remapDataWidth
-                0x9d0043f0                drvUsart0remapParity
-                0x9d004408                drvUsart0remapStopBits
-                0x9d004414                drvUsart0remapError
-                0x9d004420                drvUSART0InterruptSources
-                0x9d00443c                drvUsart0InitData
+.rodata         0x9d004574       0xc0
+ .rodata        0x9d004574       0xc0 build/PIC32MX570F512L/debug/_ext/1647817649/initialization.o
+                0x9d004574                drvUsart0PlibAPI
+                0x9d00459c                drvUsart0remapDataWidth
+                0x9d0045b0                drvUsart0remapParity
+                0x9d0045c8                drvUsart0remapStopBits
+                0x9d0045d4                drvUsart0remapError
+                0x9d0045e0                drvUSART0InterruptSources
+                0x9d0045fc                drvUsart0InitData
 
 .text.UART2_ErrorClear
-                0x9d004474       0xb8
+                0x9d004634       0xb8
  .text.UART2_ErrorClear
-                0x9d004474       0xb8 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d004634       0xb8 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
 
 .text._DRV_USART_ResourceLock
-                0x9d00452c       0xa0
+                0x9d0046ec       0xa0
  .text._DRV_USART_ResourceLock
-                0x9d00452c       0xa0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d0046ec       0xa0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text._DRV_USART_RemoveTransferObjFromList
-                0x9d0045cc       0xa0
+                0x9d00478c       0xa0
  .text._DRV_USART_RemoveTransferObjFromList
-                0x9d0045cc       0xa0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d00478c       0xa0 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
-.text.write     0x9d00466c       0x9c
- .text.write    0x9d00466c       0x9c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
-                0x9d00466c                write
+.text.write     0x9d00482c       0x9c
+ .text.write    0x9d00482c       0x9c c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(write.o)
+                0x9d00482c                write
 
 .text._DRV_USART_RX_PLIB_CallbackHandler
-                0x9d004708       0x94
+                0x9d0048c8       0x94
  .text._DRV_USART_RX_PLIB_CallbackHandler
-                0x9d004708       0x94 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d0048c8       0x94 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.SYS_Initialize
-                0x9d00479c       0x94
+                0x9d00495c       0x94
  .text.SYS_Initialize
-                0x9d00479c       0x94 build/PIC32MX570F512L/debug/_ext/1647817649/initialization.o
-                0x9d00479c                SYS_Initialize
+                0x9d00495c       0x94 build/PIC32MX570F512L/debug/_ext/1647817649/initialization.o
+                0x9d00495c                SYS_Initialize
 
 .text._DRV_USART_GetErrorType
-                0x9d004830       0x8c
+                0x9d0049f0       0x8c
  .text._DRV_USART_GetErrorType
-                0x9d004830       0x8c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d0049f0       0x8c build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.UART2_FAULT_InterruptHandler
-                0x9d0048bc       0x84
+                0x9d004a7c       0x84
  .text.UART2_FAULT_InterruptHandler
-                0x9d0048bc       0x84 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d004a7c       0x84 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
 
-.text           0x9d004940       0x84
- .text          0x9d004940       0x84 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(pic32_data_init.o)
-                0x9d004940                __pic32_data_init
+.text           0x9d004b00       0x84
+ .text          0x9d004b00       0x84 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(pic32_data_init.o)
+                0x9d004b00                __pic32_data_init
 
 .text.APP_Initialize
-                0x9d0049c4       0x80
+                0x9d004b84       0x80
  .text.APP_Initialize
-                0x9d0049c4       0x80 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
-                0x9d0049c4                APP_Initialize
+                0x9d004b84       0x80 build/PIC32MX570F512L/debug/_ext/1360937237/app.o
+                0x9d004b84                APP_Initialize
 
 .text._general_exception_handler
-                0x9d004a44       0x74
+                0x9d004c04       0x74
  .text._general_exception_handler
-                0x9d004a44       0x74 build/PIC32MX570F512L/debug/_ext/1647817649/exceptions.o
-                0x9d004a44                _general_exception_handler
+                0x9d004c04       0x74 build/PIC32MX570F512L/debug/_ext/1647817649/exceptions.o
+                0x9d004c04                _general_exception_handler
 
 .text.SYS_INT_SourceDisable
-                0x9d004ab8       0x74
+                0x9d004c78       0x74
  .text.SYS_INT_SourceDisable
-                0x9d004ab8       0x74 build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
-                0x9d004ab8                SYS_INT_SourceDisable
+                0x9d004c78       0x74 build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
+                0x9d004c78                SYS_INT_SourceDisable
 
 .text.EVIC_SourceEnable
-                0x9d004b2c       0x70
+                0x9d004cec       0x70
  .text.EVIC_SourceEnable
-                0x9d004b2c       0x70 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
-                0x9d004b2c                EVIC_SourceEnable
+                0x9d004cec       0x70 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
+                0x9d004cec                EVIC_SourceEnable
 
 .text.EVIC_SourceDisable
-                0x9d004b9c       0x70
+                0x9d004d5c       0x70
  .text.EVIC_SourceDisable
-                0x9d004b9c       0x70 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
-                0x9d004b9c                EVIC_SourceDisable
+                0x9d004d5c       0x70 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
+                0x9d004d5c                EVIC_SourceDisable
 
 .text.TIMER_1_InterruptHandler
-                0x9d004c0c       0x6c
+                0x9d004dcc       0x6c
  .text.TIMER_1_InterruptHandler
-                0x9d004c0c       0x6c build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
-                0x9d004c0c                TIMER_1_InterruptHandler
+                0x9d004dcc       0x6c build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
+                0x9d004dcc                TIMER_1_InterruptHandler
 
 .text.EVIC_SourceIsEnabled
-                0x9d004c78       0x68
+                0x9d004e38       0x68
  .text.EVIC_SourceIsEnabled
-                0x9d004c78       0x68 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
-                0x9d004c78                EVIC_SourceIsEnabled
+                0x9d004e38       0x68 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
+                0x9d004e38                EVIC_SourceIsEnabled
 
 .text._DRV_USART_ResourceUnlock
-                0x9d004ce0       0x60
+                0x9d004ea0       0x60
  .text._DRV_USART_ResourceUnlock
-                0x9d004ce0       0x60 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d004ea0       0x60 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text._DRV_USART_TransferObjListGet
-                0x9d004d40       0x60
+                0x9d004f00       0x60
  .text._DRV_USART_TransferObjListGet
-                0x9d004d40       0x60 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d004f00       0x60 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.UART2_ErrorGet
-                0x9d004da0       0x5c
+                0x9d004f60       0x5c
  .text.UART2_ErrorGet
-                0x9d004da0       0x5c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d004da0                UART2_ErrorGet
+                0x9d004f60       0x5c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d004f60                UART2_ErrorGet
 
 .text.DRV_USART_WriteBufferAdd
-                0x9d004dfc       0x58
+                0x9d004fbc       0x58
  .text.DRV_USART_WriteBufferAdd
-                0x9d004dfc       0x58 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
-                0x9d004dfc                DRV_USART_WriteBufferAdd
+                0x9d004fbc       0x58 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d004fbc                DRV_USART_WriteBufferAdd
 
 .text.TMR1_Initialize
-                0x9d004e54       0x58
+                0x9d005014       0x58
  .text.TMR1_Initialize
-                0x9d004e54       0x58 build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
-                0x9d004e54                TMR1_Initialize
+                0x9d005014       0x58 build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
+                0x9d005014                TMR1_Initialize
 
 .text._DRV_USART_TX_PLIB_CallbackHandler
-                0x9d004eac       0x54
+                0x9d00506c       0x54
  .text._DRV_USART_TX_PLIB_CallbackHandler
-                0x9d004eac       0x54 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d00506c       0x54 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.DRV_USART_ReadBufferAdd
-                0x9d004f00       0x54
+                0x9d0050c0       0x54
  .text.DRV_USART_ReadBufferAdd
-                0x9d004f00       0x54 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
-                0x9d004f00                DRV_USART_ReadBufferAdd
+                0x9d0050c0       0x54 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d0050c0                DRV_USART_ReadBufferAdd
 
 .text.main_entry
-                0x9d004f54       0x54
+                0x9d005114       0x54
  .text.main_entry
-                0x9d004f54       0x54 C:\Users\kadu_\AppData\Local\Temp\ccexpVjV.o
-                0x9d004f88                __crt0_exit
+                0x9d005114       0x54 C:\Users\kadu_\AppData\Local\Temp\ccNXE7ia.o
+                0x9d005148                __crt0_exit
 
 .text._DRV_USART_MAKE_HANDLE
-                0x9d004fa8       0x50
+                0x9d005168       0x50
  .text._DRV_USART_MAKE_HANDLE
-                0x9d004fa8       0x50 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d005168       0x50 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text._DRV_USART_UPDATE_TOKEN
-                0x9d004ff8       0x50
+                0x9d0051b8       0x50
  .text._DRV_USART_UPDATE_TOKEN
-                0x9d004ff8       0x50 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
+                0x9d0051b8       0x50 build/PIC32MX570F512L/debug/_ext/1716479885/drv_usart.o
 
 .text.SYS_INT_SourceRestore
-                0x9d005048       0x4c
+                0x9d005208       0x4c
  .text.SYS_INT_SourceRestore
-                0x9d005048       0x4c build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
-                0x9d005048                SYS_INT_SourceRestore
+                0x9d005208       0x4c build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
+                0x9d005208                SYS_INT_SourceRestore
 
 .text.UART2_ReadCallbackRegister
-                0x9d005094       0x48
+                0x9d005254       0x48
  .text.UART2_ReadCallbackRegister
-                0x9d005094       0x48 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d005094                UART2_ReadCallbackRegister
+                0x9d005254       0x48 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d005254                UART2_ReadCallbackRegister
 
 .text.UART2_WriteCallbackRegister
-                0x9d0050dc       0x48
+                0x9d00529c       0x48
  .text.UART2_WriteCallbackRegister
-                0x9d0050dc       0x48 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d0050dc                UART2_WriteCallbackRegister
+                0x9d00529c       0x48 build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d00529c                UART2_WriteCallbackRegister
 
 .text.SYS_INT_Disable
-                0x9d005124       0x48
+                0x9d0052e4       0x48
  .text.SYS_INT_Disable
-                0x9d005124       0x48 build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
-                0x9d005124                SYS_INT_Disable
+                0x9d0052e4       0x48 build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
+                0x9d0052e4                SYS_INT_Disable
 
 .text._bootstrap_exception_handler
-                0x9d00516c       0x48
+                0x9d00532c       0x48
  .text._bootstrap_exception_handler
-                0x9d00516c       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
-                0x9d00516c                _bootstrap_exception_handler
+                0x9d00532c       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-bootstrap-exception-handler.o)
+                0x9d00532c                _bootstrap_exception_handler
 
 .vector_default
-                0x9d0051b4       0x48
+                0x9d005374       0x48
  .vector_default
-                0x9d0051b4       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
-                0x9d0051b4                _DefaultInterrupt
+                0x9d005374       0x48 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(defaultinterrupt.o)
+                0x9d005374                _DefaultInterrupt
 
 .text.EVIC_Initialize
-                0x9d0051fc       0x44
+                0x9d0053bc       0x44
  .text.EVIC_Initialize
-                0x9d0051fc       0x44 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
-                0x9d0051fc                EVIC_Initialize
+                0x9d0053bc       0x44 build/PIC32MX570F512L/debug/_ext/2114983038/plib_evic.o
+                0x9d0053bc                EVIC_Initialize
 
-.text           0x9d005240       0x44
- .text          0x9d005240       0x44 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
-                0x9d005240                __pic32_software_reset
+.text           0x9d005400       0x44
+ .text          0x9d005400       0x44 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\pic32_software_reset.o
+                0x9d005400                __pic32_software_reset
 
 .text.SYS_INT_Restore
-                0x9d005284       0x40
+                0x9d005444       0x40
  .text.SYS_INT_Restore
-                0x9d005284       0x40 build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
-                0x9d005284                SYS_INT_Restore
+                0x9d005444       0x40 build/PIC32MX570F512L/debug/_ext/1435410012/sys_int.o
+                0x9d005444                SYS_INT_Restore
 
 .text._printf_cdnopsuxX
-                0x9d0052c4       0x40
+                0x9d005484       0x40
  .text._printf_cdnopsuxX
-                0x9d0052c4       0x40 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(printf_cdnopsuxX.eo)
-                0x9d0052c4                _printf_cdnopsuxX
+                0x9d005484       0x40 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libc.a(printf_cdnopsuxX.eo)
+                0x9d005484                _printf_cdnopsuxX
 
 .text.TMR1_CallbackRegister
-                0x9d005304       0x38
+                0x9d0054c4       0x38
  .text.TMR1_CallbackRegister
-                0x9d005304       0x38 build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
-                0x9d005304                TMR1_CallbackRegister
+                0x9d0054c4       0x38 build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
+                0x9d0054c4                TMR1_CallbackRegister
 
 .text.SYS_DMA_ChannelTransfer
-                0x9d00533c       0x34
+                0x9d0054fc       0x34
  .text.SYS_DMA_ChannelTransfer
-                0x9d00533c       0x34 build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
-                0x9d00533c                SYS_DMA_ChannelTransfer
+                0x9d0054fc       0x34 build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
+                0x9d0054fc                SYS_DMA_ChannelTransfer
 
 .text.SYS_Tasks
-                0x9d005370       0x30
+                0x9d005530       0x30
  .text.SYS_Tasks
-                0x9d005370       0x30 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
-                0x9d005370                SYS_Tasks
+                0x9d005530       0x30 build/PIC32MX570F512L/debug/_ext/1647817649/tasks.o
+                0x9d005530                SYS_Tasks
 
 .text.UART2_ReadIsBusy
-                0x9d0053a0       0x2c
+                0x9d005560       0x2c
  .text.UART2_ReadIsBusy
-                0x9d0053a0       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d0053a0                UART2_ReadIsBusy
+                0x9d005560       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d005560                UART2_ReadIsBusy
 
 .text.UART2_ReadCountGet
-                0x9d0053cc       0x2c
+                0x9d00558c       0x2c
  .text.UART2_ReadCountGet
-                0x9d0053cc       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d0053cc                UART2_ReadCountGet
+                0x9d00558c       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d00558c                UART2_ReadCountGet
 
 .text.UART2_WriteIsBusy
-                0x9d0053f8       0x2c
+                0x9d0055b8       0x2c
  .text.UART2_WriteIsBusy
-                0x9d0053f8       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d0053f8                UART2_WriteIsBusy
+                0x9d0055b8       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d0055b8                UART2_WriteIsBusy
 
 .text.UART2_WriteCountGet
-                0x9d005424       0x2c
+                0x9d0055e4       0x2c
  .text.UART2_WriteCountGet
-                0x9d005424       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
-                0x9d005424                UART2_WriteCountGet
+                0x9d0055e4       0x2c build/PIC32MX570F512L/debug/_ext/2115439809/plib_uart2.o
+                0x9d0055e4                UART2_WriteCountGet
 
-.text.main      0x9d005450       0x2c
- .text.main     0x9d005450       0x2c build/PIC32MX570F512L/debug/_ext/1360937237/main.o
-                0x9d005450                main
+.text.main      0x9d005610       0x2c
+ .text.main     0x9d005610       0x2c build/PIC32MX570F512L/debug/_ext/1360937237/main.o
+                0x9d005610                main
 
 .text.TMR1_Start
-                0x9d00547c       0x2c
+                0x9d00563c       0x2c
  .text.TMR1_Start
-                0x9d00547c       0x2c build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
-                0x9d00547c                TMR1_Start
+                0x9d00563c       0x2c build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
+                0x9d00563c                TMR1_Start
 
 .text.TMR1_InterruptEnable
-                0x9d0054a8       0x2c
+                0x9d005668       0x2c
  .text.TMR1_InterruptEnable
-                0x9d0054a8       0x2c build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
-                0x9d0054a8                TMR1_InterruptEnable
+                0x9d005668       0x2c build/PIC32MX570F512L/debug/_ext/2115421483/plib_tmr1.o
+                0x9d005668                TMR1_InterruptEnable
 
 .text.SYS_DMA_AddressingModeSetup
-                0x9d0054d4       0x2c
+                0x9d005694       0x2c
  .text.SYS_DMA_AddressingModeSetup
-                0x9d0054d4       0x2c build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
-                0x9d0054d4                SYS_DMA_AddressingModeSetup
+                0x9d005694       0x2c build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
+                0x9d005694                SYS_DMA_AddressingModeSetup
 
 .text._mon_putc
-                0x9d005500       0x28
+                0x9d0056c0       0x28
  .text._mon_putc
-                0x9d005500       0x28 build/PIC32MX570F512L/debug/_ext/724183241/xc32_monitor.o
-                0x9d005500                _mon_putc
+                0x9d0056c0       0x28 build/PIC32MX570F512L/debug/_ext/724183241/xc32_monitor.o
+                0x9d0056c0                _mon_putc
 
 .text.SYS_DMA_DataWidthSetup
-                0x9d005528       0x28
+                0x9d0056e8       0x28
  .text.SYS_DMA_DataWidthSetup
-                0x9d005528       0x28 build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
-                0x9d005528                SYS_DMA_DataWidthSetup
+                0x9d0056e8       0x28 build/PIC32MX570F512L/debug/_ext/241152728/sys_dma.o
+                0x9d0056e8                SYS_DMA_DataWidthSetup
 
-.text           0x9d005550       0x18
- .text          0x9d005550       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
-                0x9d005550                _nmi_handler
+.text           0x9d005710       0x18
+ .text          0x9d005710       0x18 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-nmi-handler.o)
+                0x9d005710                _nmi_handler
 
 .text.__exception_handler_break
-                0x9d005568        0xc
+                0x9d005728        0xc
  .text.__exception_handler_break
-                0x9d005568        0xc c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\software-debug-break.o
-                0x9d005568                __exception_handler_break
+                0x9d005728        0xc c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\software-debug-break.o
+                0x9d005728                __exception_handler_break
 
 .text._on_reset
-                0x9d005574        0x8
+                0x9d005734        0x8
  .text._on_reset
-                0x9d005574        0x8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
-                0x9d005574                _on_reset
+                0x9d005734        0x8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-reset.o)
+                0x9d005734                _on_reset
 
 .text._on_bootstrap
-                0x9d00557c        0x8
+                0x9d00573c        0x8
  .text._on_bootstrap
-                0x9d00557c        0x8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
-                0x9d00557c                _on_bootstrap
+                0x9d00573c        0x8 c:/program files (x86)/microchip/xc32/v2.30/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib\libpic32.a(default-on-bootstrap.o)
+                0x9d00573c                _on_bootstrap

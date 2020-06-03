@@ -4,15 +4,15 @@
 
 
 
-APP_DATA appData;
-DRV_HANDLE myUSARTHandle;
+APP_DATA appData; // app globals
+DRV_HANDLE myUSARTHandle; //Handle USART DRIVER
 DRV_USART_BUFFER_HANDLE usartBufferHandleTX;
 DRV_USART_BUFFER_HANDLE usartBufferHandleRX;
-unsigned int tx = 0;
+unsigned int tx = 0;// Tells if a Transmission is in course
 DRV_USART_BUFFER_EVENT event;
-uint8_t bfTX[5] = {'a','b','c','d','e'};
-uint8_t bfRX[5] = {0};
-bool switchSamples[5] = {false};
+uint8_t bfTX[5] = {'a','b','c','d','e'}; //TX Buffer
+uint8_t bfRX[5] = {0}; //RX Buffer
+bool switchSamples[5] = {false}; //Array used to debounce the key
 
 
 void APP_Initialize ( void )
@@ -39,8 +39,9 @@ void APP_Tasks ( void )
 
             if (appInitialized)
             {
-                DRV_USART_ReadBufferAdd(myUSARTHandle,bfRX,5,&usartBufferHandleRX);
+                DRV_USART_ReadBufferAdd(myUSARTHandle,bfRX,3,&usartBufferHandleRX);
                 if(usartBufferHandleRX == DRV_USART_BUFFER_HANDLE_INVALID)
+                    //ERROR
                 {
                     LED_D8__Clear();
                     LED_D9__Clear();                    
@@ -55,17 +56,16 @@ void APP_Tasks ( void )
         {
             if(TakeSwitchStateS3())
             {
-                LED_D8__Set();
-                LED_D9__Set();
-                
-                
 //                DRV_USART_WriteBufferAdd(myUSARTHandle,bf,5,&usartBufferHandle); //Transmite e verifica final de transmissão por pooling
 //                while ((event = DRV_USART_BufferStatusGet(usartBufferHandle)) == DRV_USART_BUFFER_EVENT_PENDING);
 
                 if(!tx)                    
                 {
                     tx = 1;
-                    DRV_USART_WriteBufferAdd(myUSARTHandle,bfTX,5,&usartBufferHandleTX);                      
+                    bfTX[0] = '#'; //Update Package to inform a Press event
+                    bfTX[1] = 'P';
+                    bfTX[2] = '$';
+                    DRV_USART_WriteBufferAdd(myUSARTHandle,bfTX,3,&usartBufferHandleTX);                      
                     if(usartBufferHandleTX == DRV_USART_BUFFER_HANDLE_INVALID)
                     {
                         LED_D8__Clear();
@@ -76,13 +76,23 @@ void APP_Tasks ( void )
                 }
             }            
             else
-            {                
-                LED_D8__Clear();
-                LED_D9__Clear();
+            //Garante que temos que soltar o botão para que um novo pacote seja transmitido
+            {   
                 if(tx==2)
-                //Garante que temos que soltar o botão para que um novo pacote seja transmitido
-                {                    
-                    tx = 0;
+                //The Package associated with button pressed event have already been transmitted 
+                {
+                    bfTX[0] = '#';//Update Package to inform a Release event
+                    bfTX[1] = 'R';
+                    bfTX[2] = '$';
+                            
+                    DRV_USART_WriteBufferAdd(myUSARTHandle,bfTX,3,&usartBufferHandleTX);
+                    if(usartBufferHandleTX == DRV_USART_BUFFER_HANDLE_INVALID)
+                    {
+                        LED_D8__Clear();
+                        LED_D9__Clear();
+                        tx = 0;
+                        while(true);                    
+                    }                                        
                 }
             }
 
@@ -108,13 +118,10 @@ void APP_USARTBufferEventHandler(   DRV_USART_BUFFER_EVENT event,
                                 )
 {
     // The context handle was set to an application specific
-    // object. It is now retrievable easily in the event handler.
-    Nop();
-    Nop();
-    Nop();
-    Nop();
-    
+    // object. It is now retrievable easily in the event handler.    
     uint ct = context;
+    static uint8_t txtmp = 0;
+    
     if(handle == usartBufferHandleTX)
     {
         switch(event)
@@ -122,7 +129,19 @@ void APP_USARTBufferEventHandler(   DRV_USART_BUFFER_EVENT event,
             case DRV_USART_BUFFER_EVENT_COMPLETE:
             {
                 // This means the data was transferred.
-                tx = 2;
+                if(tx==1)
+                    tx = 2;
+                else if(tx==2)
+                //The release button was transmitted
+                {
+                    tx = 0;
+                }
+                else if(tx == 10)
+                //We have transmitted the status, so come back to anterior status    
+                {
+                    tx = txtmp;
+                }
+                    
                 break;
             }
 
@@ -146,15 +165,45 @@ void APP_USARTBufferEventHandler(   DRV_USART_BUFFER_EVENT event,
     {
         if(event == DRV_USART_BUFFER_EVENT_COMPLETE)
         {
-
-            Nop();
-            int i = 0;
-            for(i = 0; i < 5; i++)
+            if(bfRX[0] == '#' && bfRX[1] == '8' && bfRX[2] == '$')
             {
-                Nop();
-                bfTX[i] = bfRX[i];
+                LED_D8__Toggle();
             }
-            DRV_USART_ReadBufferAdd(myUSARTHandle,bfRX,5,&usartBufferHandleRX);
+            else if(bfRX[0] == '#' && bfRX[1] == '9' && bfRX[2] == '$')
+            {
+                LED_D9__Toggle();
+            }
+            else if(bfRX[0] == '#' && bfRX[1] == 'S' && bfRX[2] == '$')
+            {
+                bfTX[0] = '#';//Update Package to inform a Release event                
+                bfTX[1] = 0;
+                bfTX[2] = '$';
+                
+                if(TakeSwitchStateS3())
+                {
+                    bfTX[1] |= 0b00000100; 
+                }
+                if(LED_D8__Get())
+                {
+                    bfTX[1] |= 0b00000001; 
+                }
+                if(LED_D9__Get())
+                {
+                    bfTX[1] |= 0b00000010; 
+                }                
+                txtmp = tx;
+                tx = 10;
+                            
+                    DRV_USART_WriteBufferAdd(myUSARTHandle,bfTX,3,&usartBufferHandleTX);
+                    if(usartBufferHandleTX == DRV_USART_BUFFER_HANDLE_INVALID)
+                    {
+                        LED_D8__Clear();
+                        LED_D9__Clear();
+                        tx = 0;
+                        while(true);                    
+                    }                                        
+            }
+            DRV_USART_ReadBufferAdd(myUSARTHandle,bfRX,3,&usartBufferHandleRX);
         }
     }
 }
@@ -170,7 +219,7 @@ void TIMER1_EventHandler(uintptr_t context)
     
     if(!sampleSwitch)        
     {
-        static countSample = 0;
+        static int countSample = 0;
         
         switchSamples[countSample] = SWITCH_S3__Get();
         countSample = (++countSample) % 5; //Sample switch in 50ms period        
